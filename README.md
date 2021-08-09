@@ -5,6 +5,6 @@
  <br/><br/>
  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Strrobez"/>
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Strobez)](https://github.com/anuraghazra/github-readme-stats)
  
 </p>
