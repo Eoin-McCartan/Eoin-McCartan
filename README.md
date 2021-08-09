@@ -4,4 +4,7 @@
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Strobez&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark&v=2"/>
  <br/><br/>
  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Strrobez"/>
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </p>
