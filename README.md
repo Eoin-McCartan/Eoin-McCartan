@@ -3,8 +3,6 @@
  <br/>
 <img alt="My Week" src="https://github-readme-stats.vercel.app/api/wakatime?custom_title=My Week&username=Strobez&layout=compact&hide_border=true&theme=dark&v2"/>
  <br/>
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Strrobez&show_icons=true&theme=dark&hide_border=true">
- <br/>
  <br/>
  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Strrobez"/>
 </p>
