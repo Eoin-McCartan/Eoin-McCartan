@@ -4,9 +4,6 @@
 <img alt="My Week" src="https://github-readme-stats.vercel.app/api/wakatime?custom_title=My Week&username=Strobez&layout=compact&hide_border=true&theme=dark"/>
  <br/>
  <br/>
- i've had no PC for two weeks okay :C
- <br/>
- <br/>
  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Strrobez"/>
 </p>
 
