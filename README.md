@@ -7,3 +7,8 @@
  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Strrobez"/>
 </p>
 
+<h2>Skills</h2>
+<hr />
+<h4>Languages</h4>
+<br />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
