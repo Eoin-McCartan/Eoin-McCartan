@@ -6,6 +6,8 @@
   
  <h2>Activity</h2>
 <p align="center">
+<img alt="Total Code Time" src="https://wakatime.com/badge/user/e7f3faef-7d98-4052-b7ae-c31fb19f4e57.svg"/>
+<br/>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strrobez&layout=compact&hide_border=true&langs_count=999&theme=dark">
  <br/>
  <img alt="My Week" src="https://github-readme-stats.vercel.app/api/wakatime?custom_title=My Week&username=Strobez&layout=compact&hide_border=true&theme=dark"/>
