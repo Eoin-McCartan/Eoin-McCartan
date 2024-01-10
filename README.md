@@ -52,7 +52,7 @@ Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">Un
 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" style="max-width: 100%;" />
 
-<p>SGDB/DBM</p>
+<p>DBM</p>
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" style="max-width: 100%;" />
 
