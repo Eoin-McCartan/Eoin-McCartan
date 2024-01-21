@@ -37,7 +37,7 @@ Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">Un
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;" />
 
-<p>Tools/Libs/Frameworks</p>
+<p>Frameworks</p>
 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;" />
 
