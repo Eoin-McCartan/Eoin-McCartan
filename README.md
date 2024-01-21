@@ -11,7 +11,7 @@ Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">Un
 <p>
     <b>Currently working on or at:
 </p>
-<a href="https://github.com/RustBench/">@rustbench</a>: <span><i>Lead Developer - An application that allows hosting companies to share their benchmark metrics of their hardware. (Fullstack)</i></span>
+<a href="https://github.com/RustBench/">@rustbench</a>: <span><i>Lead Developer - A web application that allows hosting companies to share their benchmark metrics of their hardware. (Fullstack)</i></span>
 <br />
 <a href="https://github.com/VanityServers/">@vanityservers</a>: <span><i>Senior Developer - A Rust community with a focus on the clan scene. (UI/UX, C#)</i></span>
 <br />
