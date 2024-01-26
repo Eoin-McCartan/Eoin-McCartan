@@ -1,9 +1,13 @@
 <h1>Hi 👋, I'm Eoin</h1>
 <h2>Fullstack Software Engineer</h3>
-Software engineer specialising in Rust plugin development<br /><br />
+Software engineer with focus on API/Integrations, Passionate about communities.<br /><br />
 Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">University of Ulster</a>
 <br />
-<br />
+<p>
+    <b>
+</p>
+
+
 <h2>Skills</h2>
 <p>Languages</p>
 
@@ -27,8 +31,6 @@ Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">Un
 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;" />
 
-<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" style="max-width: 100%;" />
-
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" style="max-width: 100%;" />
 
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" style="max-width: 100%;" />
@@ -45,12 +47,7 @@ Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">Un
 
 <p>Database Management</p>
 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" style="max-width: 100%;" />
-
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;" />
-
-
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;" />
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;" />
 
