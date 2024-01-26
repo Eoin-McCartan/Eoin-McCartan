@@ -1,23 +1,9 @@
 <h1>Hi 👋, I'm Eoin</h1>
 <h2>Fullstack Software Engineer</h3>
-Software engineer with focus on API/Integrations, Passionate about communities.<br />
+Software engineer specialising in Rust plugin development<br /><br />
 Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">University of Ulster</a>
 <br />
 <br />
-<ul>
-  <li>🌱 Learning .NET 8 WebApi (or trying to)</li>
-</ul>
-
-<p>
-    <b>Currently working on or at:
-</p>
-<a href="https://github.com/RustBench/">@rustbench</a>: <span><i>Lead Developer - A web application that allows hosting companies to share their benchmark metrics of their hardware.</i></span>
-<br />
-<a href="https://github.com/VanityServers/">@vanityservers</a>: <span><i>Senior Developer - A Rust community with a focus on the clan scene. (UI/UX, C#)</i></span>
-<br />
-<a href="https://github.com/UKN-GG/">@ukn.gg</a>: <span><i>Developer - One of the largest Rust communities known for their high performing training ground servers. (UI/UX, C#)</i></span>
-
-
 <h2>Skills</h2>
 <p>Languages</p>
 
