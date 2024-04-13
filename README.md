@@ -2,7 +2,10 @@
 <h2>Fullstack Software Engineer</h3>
 Software Developer with focus on API/Integrations, Passionate about communities.<br /><br />
 Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">University of Ulster</a>
-<br />
+<br /><br />
+<li>Lead Developer @ <a href="https://infinityrust.gg">InfinityRust</a></li>
+<li>Senior Developer @ <a href="https://atlasrustservers.com/">Atlas Rust Servers</a></li> 
+<li>Developer @ <a href="https://ukn.gg">UKN.GG</a></li>
 <p>
     <b>
 </p>
