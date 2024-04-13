@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Eoin</h1>
 <h2>Fullstack Software Engineer</h3>
-Software engineer with focus on API/Integrations, Passionate about communities.<br /><br />
+Software Developer with focus on API/Integrations, Passionate about communities.<br /><br />
 Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">University of Ulster</a>
 <br />
 <p>
