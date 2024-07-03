@@ -3,7 +3,7 @@
 Software Developer with focus on API/Integrations, Passionate about communities.<br /><br />
 Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">University of Ulster</a>
 <br /><br />
-Software Engineer @ <li><a href="https://hamiltonrobson.com/">Hamilton Robson</a></li>
+Software Engineer @ <a href="https://hamiltonrobson.com/">Hamilton Robson</a>
 <p>
     <b>
 </p>
