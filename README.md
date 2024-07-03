@@ -3,15 +3,8 @@
 Software Developer with focus on API/Integrations, Passionate about communities.<br /><br />
 Computing Technologies Bachelor Student @ <a href="https://www.ulster.ac.uk/">University of Ulster</a>
 <br /><br />
-<b>Software Developer @</b>
-<li><a href="https://infinityrust.gg">InfinityRust</a></li>
-<li><a href="https://atlasrustservers.com/">Atlas Rust Servers</a></li> 
-<li><a href="https://ukn.gg">UKN.GG</a></li>
-<br />
-<b>Previous Software Developer @</b>
-<li><a href="https://stevious.io">Stevious</a></li>
-<li><a href="https://lagoonrust.com">Bloo Lagoon</a></li>
-<li><a href="https://upsurgerust.com">Upsurge</a></li>
+<b>Software Engineer</b>
+<li><a href="https://hamiltonrobson.com/">Hamilton Robson</a></li>
 <p>
     <b>
 </p>
