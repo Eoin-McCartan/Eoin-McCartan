@@ -64,5 +64,5 @@ Software Engineer @ <a href="https://hamiltonrobson.com/">Hamilton Robson</a>
  <br/>
  <br/>
  <img alt="Total Code Time" src="https://wakatime.com/badge/user/e7f3faef-7d98-4052-b7ae-c31fb19f4e57.svg"/>
- <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Eoin-McCartan"/>
+ <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=EoinMcCartan"/>
 </p>
